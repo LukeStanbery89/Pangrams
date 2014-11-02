@@ -1,0 +1,5 @@
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Pangrams\Pangrams\bin\Release\Pangrams.exe.config
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Pangrams\Pangrams\bin\Release\Pangrams.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Pangrams\Pangrams\bin\Release\Pangrams.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Pangrams\Pangrams\obj\Release\Pangrams.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Pangrams\Pangrams\obj\Release\Pangrams.pdb

@@ -1,5 +1,4 @@
 C:\Users\Luke\Documents\Visual Studio 2013\Projects\Pangrams\Pangrams\bin\Debug\Pangrams.exe.config
-C:\Users\Luke\Documents\Visual Studio 2013\Projects\Pangrams\Pangrams\obj\Debug\Pangrams.csprojResolveAssemblyReference.cache
 C:\Users\Luke\Documents\Visual Studio 2013\Projects\Pangrams\Pangrams\bin\Debug\Pangrams.exe
 C:\Users\Luke\Documents\Visual Studio 2013\Projects\Pangrams\Pangrams\bin\Debug\Pangrams.pdb
 C:\Users\Luke\Documents\Visual Studio 2013\Projects\Pangrams\Pangrams\obj\Debug\Pangrams.exe
